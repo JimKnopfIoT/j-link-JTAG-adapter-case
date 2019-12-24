@@ -1,5 +1,5 @@
-# j-link JTAG enclosure
-3D printable enclosure for j-link JTAG Adapter Board (The Segger j-link). Created with Rhino 6.
+# j-link Adapter-board enclosure
+3D printable enclosure for j-link Adapter Board (The Segger j-link). Created with Rhino 6.
 
 ## 3D Case
 
@@ -13,9 +13,9 @@ Requirements:
 ## View
 ![Example Case](iso3.jpg)
 ![Example Case](iso2.jpg)
-![Example Case](20190628_053441.jpg)
-![Example Case](20190628_053542.jpg)
-![Example Case](20190628_053815.jpg)
+![Example Case](IMG_20191224_133136.jpg)
+![Example Case](IMG_20191224_133216.jpg)
+![Example Case](IMG_20191224_133234.jpg)
 ![Example Case](jlink-adapter.jpg)
 
 
