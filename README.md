@@ -11,11 +11,11 @@ Requirements:
 * 4 x 12mm M3 screws
 
 ## View
-![Example Case](iso1.jpg)
-![Example Case](iso2.jpg)
-![Example Case](IMG_20191224_133136.jpg)
-![Example Case](IMG_20191224_133216.jpg)
-![Example Case](IMG_20191224_133234.jpg)
-![Example Case](jlink-adapter.jpg)
+<img src="iso1.jpg" width="500" align="center"> 
+<img src="iso2.jpg" width="500" align="center"> 
+<img src="IMG_20191224_133136.jpg" width="500" align="center"> 
+<img src="IMG_20191224_133216.jpg" width="500" align="center"> 
+<img src="IMG_20191224_133234.jpg" width="500" align="center"> 
+<img src="jlink-adapter.jpg" width="500" align="center"> 
 
 
